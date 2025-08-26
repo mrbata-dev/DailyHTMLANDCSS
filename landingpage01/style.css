@@ -134,3 +134,55 @@ section{
 .clients-logos  img{
     width: 15%;
 }
+
+.services{
+    margin: 0.1rem 10rem;
+    display: flex  ;
+   
+    justify-content: start;
+    
+    
+}
+
+.services h2{
+    font-size: var(--heading-h2-size);
+  background-color: #27ae60;
+  margin-right:  2rem;
+}
+
+.services p{
+    font-size: var(--paragraph-size);
+    width: 50%;
+}
+
+.card-items{
+    font-size: var(--heading-h3-size);
+    background-color: #27ae60;
+    width: 80%;
+}
+
+.card{
+    border-radius: 20px;
+    border:  2px solid var(--border-color);
+    padding: 2rem 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    
+}
+
+.icon{
+    margin-top: 8rem;
+    display: flex;
+    gap:  30px;
+}
+
+.cards{
+    padding-inline: 5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-bottom: 5rem;
+}
+
