@@ -1,0 +1,23 @@
+system.out.println("Hello  World");
+printf("Hello  World");
+print("Hello  World");
+echo "Hello  World"
+
+// JS
+console.log("Hello world!");
+
+// "String"
+// 'A'
+
+// // !!!INTERVIEW QUESTION
+// What is the difference between var, let and const?
+// var is function scoped
+// let and const are block scoped
+// var can be redeclared and reassigned
+// let can be reassigned but not redeclared
+// const cannot be redeclared or reassigned
+
+// !! INTERView question
+// What is the difference between == and ===?
+// == checks for value only
+// === checks for value and type
