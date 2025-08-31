@@ -46,6 +46,7 @@ const avg = (a + b) /2;
 console.log("Average:" + avg);
 
 // WAP to find the area of a rectangle, square, circle
+<<<<<<< HEAD
 let length = 30;
 let breadth = 20;
 // area of  rectangle
@@ -68,6 +69,8 @@ console.log("Area of rectangle:" + area + "\n" + "Area of Square:" + square + "\
 console.log(`Area of Rectangle: ${area} <br> Area of Square: ${square} <br> Area of Circle: ${areaOfCircle}`);
 
 
+=======
+>>>>>>> fb70209f4d59b77fab4dd70ab2a00511124ed62a
 // WAP to find the area and circumference of a circle
 
 
